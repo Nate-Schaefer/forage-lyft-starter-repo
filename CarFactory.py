@@ -3,7 +3,7 @@ from batteries.SpindlerBattery import SpindlerBattery
 from engines.capulet_engine import CapuletEngine
 from engines.sternman_engine import SternmanEngine
 from engines.willoughby_engine import WilloughbyEngine
-from Serviceable.car import Car
+from car import Car
 
 
 class CarFactory():
